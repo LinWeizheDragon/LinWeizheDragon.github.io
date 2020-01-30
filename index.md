@@ -61,5 +61,6 @@ Our Mbed board works as a wearable device, which collects the acceleration data 
 * The 15th Awards Program for Future Scientists - Silver Medal
 
 # Publications
+* Weizhe Lin, Indigo Orton, Mingyu  Liu, Marwa Mahmoud. Automatic Detection of Self-Adaptors for Psychological Distress. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020).
 * Zhilin Wang, Elena Rastorgueva, Weizhe Lin and Xiaodong Wu. No you’re not alone A better way to find people with similar experiences on Reddit. 2019. In Proceedings of the 2019 EMNLP Workshop W-NUT: The 5th Workshop on Noisy User-generated Text. [Read](https://www.aclweb.org/anthology/D19-5540/)
 * Zhilin Wang, Xiaodong Wu, Weizhe Lin and Elena Rastorgueva. Detecting personal attributes through analyzing online forums. 2019. In Cambridge Language Sciences Early Careers Researchers Symposium. [Read](https://github.com/Zhilin123/Publications/blob/master/Cambridge%20Language%20Sciences%20ECR.pdf)
