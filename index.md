@@ -1,5 +1,5 @@
 # Profile
-Hi, this is Weizhe Lin. Currently, I am a third-year engineering student at University of Cambridge. This page is to list some of my projects and publications to help other researchers to know me better.
+Hi, this is Weizhe Lin. Currently, I am a final-year engineering student at University of Cambridge. This page is to list some of my projects and publications to help other researchers to know me better.
 [my Google Scholar page](https://scholar.google.com/citations?user=4hMhIecAAAAJ)
 
 # Education
@@ -81,7 +81,6 @@ Our Mbed board works as a wearable device, which collects the acceleration data 
 + A completed anti-virus software which is able to catch the virus based on “behavior analysis”
 + Gold Medal in 30th Fujian Adolescents Science Technology & Innovation Contest, China
 
-
 # Other Awards
 * Airbus Defense and Space Prize 2018 for Mars Lander Design and Programming Contest (Runner Up)
 * Centenary Prize for Top 3 Information, Electrical and Electronics Engineering Final Project
@@ -103,3 +102,7 @@ Restoration. 2020. Finished Paper.
 Embedding. 2019. on Arxiv. 
 * Zhilin Wang, Elena Rastorgueva, Weizhe Lin and Xiaodong Wu. No you’re not alone A better way to find people with similar experiences on Reddit. 2019. In Proceedings of the 2019 EMNLP Workshop W-NUT: The 5th Workshop on Noisy User-generated Text. [Read](https://www.aclweb.org/anthology/D19-5540/)
 * Zhilin Wang, Xiaodong Wu, Weizhe Lin and Elena Rastorgueva. Detecting personal attributes through analyzing online forums. 2019. In Cambridge Language Sciences Early Careers Researchers Symposium. [Read](https://github.com/Zhilin123/Publications/blob/master/Cambridge%20Language%20Sciences%20ECR.pdf)
+
+# Websites I built
+* [LearnAh.uk](https://www.learnah.uk)
+* [Hercules Cambridge Society External & Internal Websites](https://herculescambridge.org.uk/)
