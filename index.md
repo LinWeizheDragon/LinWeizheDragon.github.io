@@ -1,5 +1,6 @@
 # Profile
 Hi, this is Weizhe Lin. Currently, I am a third-year engineering student at University of Cambridge. This page is to list some of my projects and publications to help other researchers to know me better.
+[my Google Scholar page](https://scholar.google.com/citations?user=4hMhIecAAAAJ)
 
 # Education
 ### Trinity College, University of Camrbidge 2017 - 2021
@@ -8,6 +9,10 @@ Master of Engineering & Bacholar of Art in Information Engineering
 Bacholar of Engineering
 
 # Work Experience
+### Remote Researcher at Computer Laboratory, University of Cambridge (2020)
+* Proposed a decentralized deep learning framework that utilizes Graph Attention Networks (GATs) to address multi-agent path planning problems.
+* The model trained at simple problem instances show great generalizability in very complex and hard cases (100x in agent number and map size).
+
 ### Researcher at Computer Laboratory, University of Cambridge (2019)
 * Proposed a network-based novel multi-modal feature fusion framework which can be utilised to make prediction of psychological disorder
 * Developed a self-adaptor(fidgeting) detection system and applied it to investigate automated detection of psychological distress
@@ -17,10 +22,35 @@ Bacholar of Engineering
 * Gained skills in database management, involving the use of MySQL, Google Bigtable and Redis Caching.
 
 # Society
-* Data Analysis Mentor of Bridge for Enterprise
+* Skill Leader of Cambridge Hercules [Link](https://herculescambridge.org.uk/)
+* Data Analysis Mentor of Bridge for Enterprise [Link](https://www.bridgesforenterprise.com/)
 * Member of Computer Vision Team in Robotics Society (Cambridge)
 
 # Projects
+### Knowledge-aware multi-domain task-oriented dialogue systems (final year dissertation)
+* Final year project supervised by Prof. Bill Byrne (Head of Information Engineering).
+* Utilising neural forms of graph networks in dialogue systems
+
+### Multi-robot path planning
+* Supervised by Amanda Prorok.
+* Imitation learning using Graph Neural Network to communicate between agents.
+* Utilize graph attention neural network to leverage the performance of moving agents to their goals.
+
+### COVID-19 diagnosis assist and CT denoising (AIXCOVNET Project Support Member)
+* Working with Stranks Lab of Cavendish Laboratory, NHS(Addenbrooke’s Hospital), Department of Radiology. Super- vised by Sam Stranks.
+* Perform CT denoising on datasets of COVID-19 and other commonly-seen lung diseases.
+* Low-dose high-speed CT screening
+
+### Image reconstruction for hyperspectral microscopy using deep learning
+* Working together with Stranks Lab of Cavendish Laboratory. Collaborate with VISION Laboratory of Department of Physics. Supervised by Sam Stranks.
+* Using machine-learning-based methods to denoise and reconstruct physics-informed images obtain by special mi- croscopy.
+* Highly reduced the required laser exposure time for taking images for physics/material research.
+
+### Automatic fidgeting and self-adaptor detection for psychological distress from 2D videos [Code](https://github.com/LinWeizheDragon/AutoFidgetDetection)
+* Developed a fully automated system to detect the fidgeting behaviour (such as touching face by hand and rhythmic body motion). Supervised by Dr. Marwa Mahmoud.
+* Using Gaussian Mixture Model and Fisher Vector for feature fusion and dimension reduction.
+* Perform classification based on multi-modal features extracted from interview videos.
+
 ### [LearnAh.uk](https://www.learnah.uk)
 * Work as frontend & backend designer, database manager
 * Helps teachers to make science fun to learn by recommending relevant popular science videos using machine- learning based text analysis (Latent Semantic Indexing & Latent Dirichlet Allocation)
@@ -60,9 +90,16 @@ Our Mbed board works as a wearable device, which collects the acceleration data 
 * Fujian Adolescents Science & Technology Innovation Contest - Gold Medal (30th), Third Award (29th)
 * The 15th Awards Program for Future Scientists - Silver Medal
 
-# Publications
+# Publications and Presentations
+* Qingbiao Li*, Weizhe Lin* (*equal contribution), Zhe Liu and Amanda Prorok. Message-Aware Graph Attention Networks for Large Scale Multi-Robot Path Planning. 2020. Submitted to IEEE Robotics and Automation Letters. [Read](http://arxiv.org/abs/2011.13219.pdf)
+* Zhilin Wang, Weizhe Lin and Xiaodong Wu. Identifying Similar Movie Characters Quickly but Effectively Using
+Non-exhaustive Pair-wise Attention. 2020. Under conference review. [Read](https://arxiv.org/abs/2010.12183)
+* Kangyu Ji, Weizhe Lin, Qingbiao Li and Sam Stranks. Physics-aware Hyperspectral Image
+Restoration. 2020. Finished Paper.
 * Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2020). Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress. arXiv preprint arXiv:2007.15815. [Read](https://arxiv.org/abs/2007.15815)
-* Weizhe Lin, Indigo Orton, Mingyu  Liu, Marwa Mahmoud. Automatic Detection of Self-Adaptors for Psychological Distress. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a214/1kecI2z8ccU)
-* Ziheng Zhang, Weizhe Lin, Mingyu Liu, Marwa Mahmoud. Multimodal Deep Learning Framework for Mental DisorderRecognition. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a222/1kecI2YXH2M)
+* Weizhe Lin, Indigo Orton, Mingyu  Liu, Marwa Mahmoud. Automatic Detection of Self-Adaptors for Psychological Distress. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). <oral session> [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a214/1kecI2z8ccU)
+* Ziheng Zhang, Weizhe Lin, Mingyu Liu, Marwa Mahmoud. Multimodal Deep Learning Framework for Mental DisorderRecognition. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). <oral session> [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a222/1kecI2YXH2M)
+* Xiaodong Wu*, Weizhe Lin* (*equal contribution), Zhilin Wang and Elena Rastorgueva. Author2Vec: A Novel Framework for Generating User
+Embedding. 2019. on Arxiv. 
 * Zhilin Wang, Elena Rastorgueva, Weizhe Lin and Xiaodong Wu. No you’re not alone A better way to find people with similar experiences on Reddit. 2019. In Proceedings of the 2019 EMNLP Workshop W-NUT: The 5th Workshop on Noisy User-generated Text. [Read](https://www.aclweb.org/anthology/D19-5540/)
 * Zhilin Wang, Xiaodong Wu, Weizhe Lin and Elena Rastorgueva. Detecting personal attributes through analyzing online forums. 2019. In Cambridge Language Sciences Early Careers Researchers Symposium. [Read](https://github.com/Zhilin123/Publications/blob/master/Cambridge%20Language%20Sciences%20ECR.pdf)
