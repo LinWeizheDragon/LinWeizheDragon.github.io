@@ -1,8 +1,8 @@
 # Profile
 Hi, this is Weizhe Lin. Currently, I am a final-year engineering student at University of Cambridge. This page is to list some of my projects and publications to help other researchers to know me better.
 
-* [my Google Scholar page](https://scholar.google.com/citations?user=4hMhIecAAAAJ)
-* [my CV download](https://github.com/LinWeizheDragon/LinWeizheDragon.github.io/blob/master/CV.Weizhe.Lin.pdf)
+* [My Google Scholar page](https://scholar.google.com/citations?user=4hMhIecAAAAJ)
+* [My CV download](https://github.com/LinWeizheDragon/LinWeizheDragon.github.io/blob/master/CV.Weizhe.Lin.pdf)
 
 # Education
 ### Trinity College, University of Camrbidge 2017 - 2021
