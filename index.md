@@ -92,9 +92,8 @@ Our Mbed board works as a wearable device, which collects the acceleration data 
 * The 15th Awards Program for Future Scientists - Silver Medal
 
 # Publications and Presentations
-* Qingbiao Li*, Weizhe Lin* (*equal contribution), Zhe Liu and Amanda Prorok. Message-Aware Graph Attention Networks for Large Scale Multi-Robot Path Planning. 2020. Submitted to IEEE Robotics and Automation Letters. [Read](http://arxiv.org/abs/2011.13219.pdf)
-* Zhilin Wang, Weizhe Lin and Xiaodong Wu. Identifying Similar Movie Characters Quickly but Effectively Using
-Non-exhaustive Pair-wise Attention. 2020. Under conference review. [Read](https://arxiv.org/abs/2010.12183)
+* Zhilin Wang, Weizhe Lin and Xiaodong Wu. Learning similarity between movie characters and its potential implications on understanding human experiences. 2021. In Proceedings of the 2021 NAACL Workshop WNU: 3rd Workshop on Narrative Understanding. [Read](https://arxiv.org/abs/2010.12183)
+* Qingbiao Li*, Weizhe Lin* (*equal contribution), Zhe Liu and Amanda Prorok. Message-Aware Graph Attention Networks for Large Scale Multi-Robot Path Planning. 2020. IEEE Robotics and Automation Letters. [Read](http://arxiv.org/abs/2011.13219.pdf)
 * Kangyu Ji, Weizhe Lin, Qingbiao Li and Sam Stranks. Physics-aware Hyperspectral Image
 Restoration. 2020. Finished Paper.
 * Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2020). Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress. arXiv preprint arXiv:2007.15815. [Read](https://arxiv.org/abs/2007.15815)
