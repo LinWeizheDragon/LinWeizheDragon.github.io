@@ -7,6 +7,8 @@ Hi, this is Weizhe Lin. Currently, I am a final-year engineering student at Univ
 # Education
 ### Trinity College, University of Camrbidge 2017 - 2021
 Master of Engineering & Bacholar of Art in Information Engineering
+Dissertation submitted for Master degree: 
+Graph Neural Networks in Multi-Domain Task-Oriented Systems
 ### The University of Hong Kong 2016 - 2017
 Bacholar of Engineering
 
