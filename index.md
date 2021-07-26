@@ -10,14 +10,19 @@ This page is to list some of my projects and publications to help other research
 * [My CV download](https://github.com/LinWeizheDragon/LinWeizheDragon.github.io/blob/master/CV.Weizhe.Lin.pdf)
 
 # Education
+### Trinity College, University of Cambridge 2021 - 2024
+* Ph.D. in Engineering
 ### Trinity College, University of Camrbidge 2017 - 2021
-Master of Engineering & Bacholar of Art in Information Engineering
-Dissertation submitted for Master degree: 
-Graph Neural Networks in Multi-Domain Task-Oriented Systems
+* Master of Engineering & Bacholar of Art in Information Engineering
+* Dissertation submitted for Master degree: 
+**Graph Neural Networks in Multi-Domain Task-Oriented Systems** (Distinction Class)
 ### The University of Hong Kong 2016 - 2017
-Bacholar of Engineering
+Bacholar of Engineering (Computer Science)
 
 # Work Experience
+### Intern Researcher at Microsoft Software Technology Center, Beijing (2021)
+* Developing cutting-edge recommender systems for movie recommendation
+
 ### Remote Researcher at Computer Laboratory, University of Cambridge (2020)
 * Proposed a decentralized deep learning framework that utilizes Graph Attention Networks (GATs) to address multi-agent path planning problems.
 * The model trained at simple problem instances show great generalizability in very complex and hard cases (100x in agent number and map size).
@@ -31,7 +36,7 @@ Bacholar of Engineering
 * Gained skills in database management, involving the use of MySQL, Google Bigtable and Redis Caching.
 
 # Society
-* Skill Leader of Cambridge Hercules [Link](https://herculescambridge.org.uk/)
+* Web System Leader of Cambridge Hercules [Link](https://herculescambridge.org.uk/)
 * Data Analysis Mentor of Bridge for Enterprise [Link](https://www.bridgesforenterprise.com/)
 * Member of Computer Vision Team in Robotics Society (Cambridge)
 
