@@ -1,5 +1,10 @@
-# Profile
-Hi, this is Weizhe Lin. Currently, I am a final-year engineering student at University of Cambridge. This page is to list some of my projects and publications to help other researchers to know me better.
+Hi, this is Weizhe Lin.
+I have studied for 1 year at the University of Hong Kong after I graduated from high school, and transferred to University of Cambridge for a 4-year BA/MEng programme.
+I was awarded Trinity Overseas Bursary and Cambridge Trust Scholarship for my undergraduate study at the Department of Engineering.
+I have received my Bachelor of Art and Master of Engineering degree on 31 June, 2021.
+And I will commence my PhD course at Cambridge in October this year.
+
+This page is to list some of my projects and publications to help other researchers to know me better.
 
 * [My Google Scholar page](https://scholar.google.com/citations?user=4hMhIecAAAAJ)
 * [My CV download](https://github.com/LinWeizheDragon/LinWeizheDragon.github.io/blob/master/CV.Weizhe.Lin.pdf)
