@@ -11,11 +11,14 @@ This page is to list some of my projects and publications to help other research
 
 # Education
 ### Trinity College, University of Cambridge 2021 - 2024
-* Ph.D. in Engineering
+Ph.D. in Engineering
+
+Supervised by Prof. Bill Byrne
 ### Trinity College, University of Camrbidge 2017 - 2021
-* Master of Engineering & Bacholar of Art in Information Engineering
-* Dissertation submitted for Master degree: 
-**Graph Neural Networks in Multi-Domain Task-Oriented Systems** (Distinction Class)
+Master of Engineering & Bacholar of Art in Information Engineering
+
+Dissertation submitted for Master degree: 
+Graph Neural Networks in Multi-Domain Task-Oriented Systems (Distinction Class) (Engineering Tripos Part IIB Project Prize)
 ### The University of Hong Kong 2016 - 2017
 Bacholar of Engineering (Computer Science)
 
