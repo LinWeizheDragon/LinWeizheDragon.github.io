@@ -7,7 +7,7 @@ And I will commence my PhD course at Cambridge in October this year.
 This page is to list some of my projects and publications to help other researchers to know me better.
 
 * [My Google Scholar page](https://scholar.google.com/citations?user=4hMhIecAAAAJ)
-* [My CV download](https://github.com/LinWeizheDragon/LinWeizheDragon.github.io/blob/master/CV.Weizhe.Lin.pdf)
+* [View My CV Online](https://linweizhedragon.github.io//cv/)
 
 # Education
 ### Trinity College, University of Cambridge 2021 - 2024
@@ -107,11 +107,11 @@ Our Mbed board works as a wearable device, which collects the acceleration data 
 * The 15th Awards Program for Future Scientists - Silver Medal
 
 # Publications and Presentations
-* Zhilin Wang, Weizhe Lin and Xiaodong Wu. Learning similarity between movie characters and its potential implications on understanding human experiences. 2021. In Proceedings of the 2021 NAACL Workshop WNU: 3rd Workshop on Narrative Understanding. [Read](https://arxiv.org/abs/2010.12183)
+* Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2021). Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress. In IEEE Transactions on Affective Computing [Read](https://ieeexplore.ieee.org/document/9506822/)
+* Zhilin Wang, Weizhe Lin and Xiaodong Wu. Learning similarity between movie characters and its potential implications on understanding human experiences. 2021. In Proceedings of the 2021 NAACL Workshop WNU: 3rd Workshop on Narrative Understanding. [Read](https://aclanthology.org/2021.nuse-1.3.pdf)
 * Qingbiao Li*, Weizhe Lin* (*equal contribution), Zhe Liu and Amanda Prorok. Message-Aware Graph Attention Networks for Large Scale Multi-Robot Path Planning. 2020. IEEE Robotics and Automation Letters. [Read](http://arxiv.org/abs/2011.13219.pdf)
 * Kangyu Ji, Weizhe Lin, Qingbiao Li and Sam Stranks. Physics-aware Hyperspectral Image
 Restoration. 2020. Finished Paper.
-* Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2020). Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress. arXiv preprint arXiv:2007.15815. [Read](https://arxiv.org/abs/2007.15815)
 * Weizhe Lin, Indigo Orton, Mingyu  Liu, Marwa Mahmoud. Automatic Detection of Self-Adaptors for Psychological Distress. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a214/1kecI2z8ccU) <Oral session>
 * Ziheng Zhang, Weizhe Lin, Mingyu Liu, Marwa Mahmoud. Multimodal Deep Learning Framework for Mental DisorderRecognition. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a222/1kecI2YXH2M) <Oral session>
 * Xiaodong Wu*, Weizhe Lin* (*equal contribution), Zhilin Wang and Elena Rastorgueva. Author2Vec: A Novel Framework for Generating User
