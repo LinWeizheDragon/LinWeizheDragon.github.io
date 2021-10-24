@@ -2,7 +2,7 @@ Hi, this is Weizhe Lin.
 I have studied for 1 year at the University of Hong Kong after I graduated from high school, and transferred to University of Cambridge for a 4-year BA/MEng programme.
 I was awarded Trinity Overseas Bursary and Cambridge Trust Scholarship for my undergraduate study at the Department of Engineering.
 I have received my Bachelor of Art and Master of Engineering degree on 31 June, 2021.
-And I will commence my PhD course at Cambridge in October this year.
+I am now studying as a Ph.D. student at University of Cambridge. My research interest lies in the intersection of vision and language. And I also work in vision technology which may push the frontier of material scientific research.
 
 This page is to list some of my projects and publications to help other researchers to know me better.
 
@@ -11,9 +11,9 @@ This page is to list some of my projects and publications to help other research
 
 # Education
 ### Trinity College, University of Cambridge 2021 - 2024
-Ph.D. in Engineering
+Ph.D. in Engineering (Supervised by Prof. Bill Byrne)
 
-Supervised by Prof. Bill Byrne
+Visiting Ph.D. in Chemical Engineering and Biotechnology (Supervised by Dr. Samuel Stranks)
 ### Trinity College, University of Camrbidge 2017 - 2021
 Master of Engineering & Bacholar of Art in Information Engineering
 
@@ -25,6 +25,7 @@ Bacholar of Engineering (Computer Science)
 # Work Experience
 ### Intern Researcher at Microsoft Software Technology Center, Beijing (2021)
 * Developing cutting-edge recommender systems for movie recommendation
+* Prepare up-to-date movie recommendation datasets
 
 ### Remote Researcher at Computer Laboratory, University of Cambridge (2020)
 * Proposed a decentralized deep learning framework that utilizes Graph Attention Networks (GATs) to address multi-agent path planning problems.
@@ -39,7 +40,7 @@ Bacholar of Engineering (Computer Science)
 * Gained skills in database management, involving the use of MySQL, Google Bigtable and Redis Caching.
 
 # Society
-* Web System Leader of Cambridge Hercules [Link](https://herculescambridge.org.uk/)
+* Director of Web Development of Cambridge Hercules [Link](https://herculescambridge.org.uk/)
 * Data Analysis Mentor of Bridge for Enterprise [Link](https://www.bridgesforenterprise.com/)
 * Member of Computer Vision Team in Robotics Society (Cambridge)
 
@@ -107,7 +108,8 @@ Our Mbed board works as a wearable device, which collects the acceleration data 
 * The 15th Awards Program for Future Scientists - Silver Medal
 
 # Publications and Presentations
-* Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2021). Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress. In IEEE Transactions on Affective Computing [Read](https://ieeexplore.ieee.org/document/9506822/)
+* Weizhe Lin, ‪Bo-Hsiang Tseng and Bill Byrne. Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking. 2021. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). [Read](https://arxiv.org/abs/2104.04466v3)
+* Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2021). Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress. In IEEE Transactions on Affective Computing. [Read](https://ieeexplore.ieee.org/document/9506822/)
 * Zhilin Wang, Weizhe Lin and Xiaodong Wu. Learning similarity between movie characters and its potential implications on understanding human experiences. 2021. In Proceedings of the 2021 NAACL Workshop WNU: 3rd Workshop on Narrative Understanding. [Read](https://aclanthology.org/2021.nuse-1.3.pdf)
 * Qingbiao Li*, Weizhe Lin* (*equal contribution), Zhe Liu and Amanda Prorok. Message-Aware Graph Attention Networks for Large Scale Multi-Robot Path Planning. 2020. IEEE Robotics and Automation Letters. [Read](http://arxiv.org/abs/2011.13219.pdf)
 * Kangyu Ji, Weizhe Lin, Qingbiao Li and Sam Stranks. Physics-aware Hyperspectral Image
