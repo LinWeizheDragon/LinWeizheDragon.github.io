@@ -23,6 +23,9 @@ Graph Neural Networks in Multi-Domain Task-Oriented Systems (Distinction Class) 
 Bacholar of Engineering (Computer Science)
 
 # Work Experience
+### Intern Applied Scientist II at Amazon Development Center, Cambridge (2022)
+* Developing advanced Table Question Answering models
+
 ### Intern Researcher at Microsoft Software Technology Center, Beijing (2021)
 * Developing cutting-edge recommender systems for movie recommendation
 * Prepare up-to-date movie recommendation datasets
