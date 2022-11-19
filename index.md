@@ -42,6 +42,28 @@ Bacholar of Engineering (Computer Science)
 * Developed a Python Django-based website which tracks usage data by IoT devices in Power Supply monitors (which the company manufactures). This information then helps machine learning engineers to develop more accurate algorithm to predict how energy is used by various electrical appliances
 * Gained skills in database management, involving the use of MySQL, Google Bigtable and Redis Caching.
 
+
+# Publications and Presentations
+* Weizhe Lin, Bill Byrne. Retrieval Augmented Visual Question Answering with Outside Knowledge. 2022. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). [Read](https://arxiv.org/abs/2210.03809)
+* Weizhe Lin, ‪Bo-Hsiang Tseng and Bill Byrne. Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking. 2021. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). [Read](https://arxiv.org/abs/2104.04466v3)
+* Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2021). Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress. In IEEE Transactions on Affective Computing. [Read](https://ieeexplore.ieee.org/document/9506822/)
+* Zhilin Wang, Weizhe Lin and Xiaodong Wu. Learning similarity between movie characters and its potential implications on understanding human experiences. 2021. In Proceedings of the 2021 NAACL Workshop WNU: 3rd Workshop on Narrative Understanding. [Read](https://aclanthology.org/2021.nuse-1.3.pdf)
+* Qingbiao Li*, Weizhe Lin* (*equal contribution), Zhe Liu and Amanda Prorok. Message-Aware Graph Attention Networks for Large Scale Multi-Robot Path Planning. 2020. IEEE Robotics and Automation Letters. [Read](http://arxiv.org/abs/2011.13219.pdf)
+* Kangyu Ji, Weizhe Lin, Qingbiao Li and Sam Stranks. Physics-aware Hyperspectral Image
+Restoration. 2020. Finished Paper.
+* Weizhe Lin, Indigo Orton, Mingyu  Liu, Marwa Mahmoud. Automatic Detection of Self-Adaptors for Psychological Distress. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a214/1kecI2z8ccU) <Oral session>
+* Ziheng Zhang, Weizhe Lin, Mingyu Liu, Marwa Mahmoud. Multimodal Deep Learning Framework for Mental DisorderRecognition. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a222/1kecI2YXH2M) <Oral session>
+* Xiaodong Wu*, Weizhe Lin* (*equal contribution), Zhilin Wang and Elena Rastorgueva. Author2Vec: A Novel Framework for Generating User
+Embedding. 2019. on Arxiv. 
+* Zhilin Wang, Elena Rastorgueva, Weizhe Lin and Xiaodong Wu. No you’re not alone A better way to find people with similar experiences on Reddit. 2019. In Proceedings of the 2019 EMNLP Workshop W-NUT: The 5th Workshop on Noisy User-generated Text. [Read](https://www.aclweb.org/anthology/D19-5540/)
+* Zhilin Wang, Xiaodong Wu, Weizhe Lin and Elena Rastorgueva. Detecting personal attributes through analyzing online forums. 2019. In Cambridge Language Sciences Early Careers Researchers Symposium. [Read](https://github.com/Zhilin123/Publications/blob/master/Cambridge%20Language%20Sciences%20ECR.pdf)
+
+
+# Review For Venues
+* Major NLP venues (EMNLP, EACL, ACL ARR)
+* The t Workshop on Interactive Technologies for AI in Healthcare: Diagnosis, Management, and Assistance
+* The First Workshop on Multimodal Data for Mental Disorder Recognition
+
 # Society
 * Director of Web Development of Cambridge Hercules [Link](https://herculescambridge.org.uk/)
 * Data Analysis Mentor of Bridge for Enterprise [Link](https://www.bridgesforenterprise.com/)
@@ -110,19 +132,6 @@ Our Mbed board works as a wearable device, which collects the acceleration data 
 * Fujian Adolescents Science & Technology Innovation Contest - Gold Medal (30th), Third Award (29th)
 * The 15th Awards Program for Future Scientists - Silver Medal
 
-# Publications and Presentations
-* Weizhe Lin, ‪Bo-Hsiang Tseng and Bill Byrne. Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking. 2021. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). [Read](https://arxiv.org/abs/2104.04466v3)
-* Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2021). Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress. In IEEE Transactions on Affective Computing. [Read](https://ieeexplore.ieee.org/document/9506822/)
-* Zhilin Wang, Weizhe Lin and Xiaodong Wu. Learning similarity between movie characters and its potential implications on understanding human experiences. 2021. In Proceedings of the 2021 NAACL Workshop WNU: 3rd Workshop on Narrative Understanding. [Read](https://aclanthology.org/2021.nuse-1.3.pdf)
-* Qingbiao Li*, Weizhe Lin* (*equal contribution), Zhe Liu and Amanda Prorok. Message-Aware Graph Attention Networks for Large Scale Multi-Robot Path Planning. 2020. IEEE Robotics and Automation Letters. [Read](http://arxiv.org/abs/2011.13219.pdf)
-* Kangyu Ji, Weizhe Lin, Qingbiao Li and Sam Stranks. Physics-aware Hyperspectral Image
-Restoration. 2020. Finished Paper.
-* Weizhe Lin, Indigo Orton, Mingyu  Liu, Marwa Mahmoud. Automatic Detection of Self-Adaptors for Psychological Distress. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a214/1kecI2z8ccU) <Oral session>
-* Ziheng Zhang, Weizhe Lin, Mingyu Liu, Marwa Mahmoud. Multimodal Deep Learning Framework for Mental DisorderRecognition. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a222/1kecI2YXH2M) <Oral session>
-* Xiaodong Wu*, Weizhe Lin* (*equal contribution), Zhilin Wang and Elena Rastorgueva. Author2Vec: A Novel Framework for Generating User
-Embedding. 2019. on Arxiv. 
-* Zhilin Wang, Elena Rastorgueva, Weizhe Lin and Xiaodong Wu. No you’re not alone A better way to find people with similar experiences on Reddit. 2019. In Proceedings of the 2019 EMNLP Workshop W-NUT: The 5th Workshop on Noisy User-generated Text. [Read](https://www.aclweb.org/anthology/D19-5540/)
-* Zhilin Wang, Xiaodong Wu, Weizhe Lin and Elena Rastorgueva. Detecting personal attributes through analyzing online forums. 2019. In Cambridge Language Sciences Early Careers Researchers Symposium. [Read](https://github.com/Zhilin123/Publications/blob/master/Cambridge%20Language%20Sciences%20ECR.pdf)
 
 # Websites I built
 * [LearnAh.uk](https://www.learnah.uk)
