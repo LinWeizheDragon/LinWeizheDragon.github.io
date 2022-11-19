@@ -61,7 +61,7 @@ Embedding. 2019. on Arxiv.
 
 # Review For Venues
 * Major NLP venues (EMNLP, EACL, ACL ARR)
-* The t Workshop on Interactive Technologies for AI in Healthcare: Diagnosis, Management, and Assistance
+* The First Workshop on Interactive Technologies for AI in Healthcare: Diagnosis, Management, and Assistance
 * The First Workshop on Multimodal Data for Mental Disorder Recognition
 
 # Society
