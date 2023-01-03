@@ -13,7 +13,7 @@ This page is to list some of my projects and publications to help other research
 ### Trinity College, University of Cambridge 2021 - 2024
 Ph.D. in Engineering (Supervised by Prof. Bill Byrne)
 
-Visiting Ph.D. in Chemical Engineering and Biotechnology (Supervised by Dr. Samuel Stranks)
+Visiting Ph.D. in Chemical Engineering and Biotechnology (Supervised by Prof. Samuel Stranks)
 ### Trinity College, University of Camrbidge 2017 - 2021
 Master of Engineering & Bacholar of Art in Information Engineering
 
