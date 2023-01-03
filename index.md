@@ -45,6 +45,10 @@ Bacholar of Engineering (Computer Science)
 
 # Publications and Presentations
 * Weizhe Lin, Bill Byrne. Retrieval Augmented Visual Question Answering with Outside Knowledge. 2022. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). [Read](https://arxiv.org/abs/2210.03809)
+* Weizhe Lin, Linjun Shou, Ming Gong, Jian Pei, Zhilin Wang, Bill Byrne, Daxin Jiang. Transformer-Empowered Content-Aware Collaborative Filtering. 2022. In Proceedings of the Fourth Knowledge-aware and Conversational Recommender Systems Workshop
+co-located with 16th ACM Conference on Recommender Systems (RecSys 2022). [Read](https://ceur-ws.org/Vol-3294/long3.pdf)
+* Weizhe Lin, Linjun Shou, Ming Gong, Jian Pei, Zhilin Wang, Bill Byrne, Daxin Jiang. Combining Unstructured Content and Knowledge Graphs into Recommendation Datasets (short paper). 2022. In Proceedings of the Fourth Knowledge-aware and Conversational Recommender Systems Workshop
+co-located with 16th ACM Conference on Recommender Systems (RecSys 2022). [Read](https://ceur-ws.org/Vol-3294/short5.pdf)
 * Weizhe Lin, ‪Bo-Hsiang Tseng and Bill Byrne. Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking. 2021. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). [Read](https://arxiv.org/abs/2104.04466v3)
 * Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2021). Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress. In IEEE Transactions on Affective Computing. [Read](https://ieeexplore.ieee.org/document/9506822/)
 * Zhilin Wang, Weizhe Lin and Xiaodong Wu. Learning similarity between movie characters and its potential implications on understanding human experiences. 2021. In Proceedings of the 2021 NAACL Workshop WNU: 3rd Workshop on Narrative Understanding. [Read](https://aclanthology.org/2021.nuse-1.3.pdf)
