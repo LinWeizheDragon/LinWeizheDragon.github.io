@@ -44,6 +44,9 @@ Bacholar of Engineering (Computer Science)
 
 
 # Publications and Presentations
+* Weizhe Lin, Rexhina Blloshmi, Bill Byrne, Adria de Gispert and Gonzalo Iglesias. An Inner Table Retriever for Robust Table Question Answering. 2023. To appear at ACL.
+* Weizhe Lin, Rexhina Blloshmi, Bill Byrne, Adria de Gispert and Gonzalo Iglesias. LI-RAGE: Late Interaction Retrieval Augmented Generation with Explicit Signals for Open-Domain Table Question Answering. 2023. To appear at ACL.
+* Weizhe Lin, Zhilin Wang, and Bill Byrne. FVQA 2.0: Introducing Adversarial Samples for Fact-based Visual Question Answering. 2023. Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Findings (EACL). [read](https://arxiv.org/abs/2303.10699)
 * Weizhe Lin, Bill Byrne. Retrieval Augmented Visual Question Answering with Outside Knowledge. 2022. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). [Read](https://arxiv.org/abs/2210.03809)
 * Weizhe Lin, Linjun Shou, Ming Gong, Jian Pei, Zhilin Wang, Bill Byrne, Daxin Jiang. Transformer-Empowered Content-Aware Collaborative Filtering. 2022. In Proceedings of the Fourth Knowledge-aware and Conversational Recommender Systems Workshop
 co-located with 16th ACM Conference on Recommender Systems (RecSys 2022). [Read](https://ceur-ws.org/Vol-3294/long3.pdf)
