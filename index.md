@@ -1,8 +1,9 @@
 Hi, this is Weizhe Lin.
-I have studied for 1 year at the University of Hong Kong after I graduated from high school, and transferred to University of Cambridge for a 4-year BA/MEng programme.
-I was awarded Trinity Overseas Bursary and Cambridge Trust Scholarship for my undergraduate study at the Department of Engineering.
-I have received my Bachelor of Art and Master of Engineering degree on 31 June, 2021.
-I am now studying as a Ph.D. student at University of Cambridge. My research interest lies in the intersection of vision and language. And I also work in vision technology which may push the frontier of material scientific research.
+After graduating from high school, I studied at the University of Hong Kong for one year before transferring to the University of Cambridge to pursue a four-year BA/MEng program.
+During my undergraduate studies at the Department of Engineering, I was honored to receive the Trinity Overseas Bursary and the Cambridge Trust Scholarship.
+On June 31, 2021, I successfully obtained both my Bachelor of Arts and Master of Engineering degrees.
+Currently, I am pursuing a Ph.D. at the University of Cambridge, where my research focuses on the intersection of vision and language.
+In addition to my academic pursuits, I am involved in vision technology, which has the potential to advance material scientific research.
 
 This page is to list some of my projects and publications to help other researchers to know me better.
 
@@ -14,13 +15,13 @@ This page is to list some of my projects and publications to help other research
 Ph.D. in Engineering (Supervised by Prof. Bill Byrne)
 
 Visiting Ph.D. in Chemical Engineering and Biotechnology (Supervised by Prof. Samuel Stranks)
-### Trinity College, University of Camrbidge 2017 - 2021
-Master of Engineering & Bacholar of Art in Information Engineering
+### Trinity College, University of Cambridge 2017 - 2021
+Master of Engineering & Bachelor of Arts in Information Engineering
 
 Dissertation submitted for Master degree: 
 Graph Neural Networks in Multi-Domain Task-Oriented Systems (Distinction Class) (Engineering Tripos Part IIB Project Prize)
 ### The University of Hong Kong 2016 - 2017
-Bacholar of Engineering (Computer Science)
+Bachelor of Engineering (Computer Science)
 
 # Work Experience
 ### Intern Applied Scientist II at Amazon Development Center, Cambridge (2022)
