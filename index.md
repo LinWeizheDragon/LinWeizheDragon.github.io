@@ -45,8 +45,14 @@ Bachelor of Engineering (Computer Science)
 
 
 # Publications and Presentations
-* Weizhe Lin, Rexhina Blloshmi, Bill Byrne, Adria de Gispert and Gonzalo Iglesias. An Inner Table Retriever for Robust Table Question Answering. 2023. To appear at ACL.
-* Weizhe Lin, Rexhina Blloshmi, Bill Byrne, Adria de Gispert and Gonzalo Iglesias. LI-RAGE: Late Interaction Retrieval Augmented Generation with Explicit Signals for Open-Domain Table Question Answering. 2023. To appear at ACL.
+* Weizhe Lin, Jinghong Chen, Jingbiao Mei, Alexandru Coca, Bill Byrne. Finer-grained Late-interaction Multimodal
+Retrieval for Knowledge-based Visual Question Answering. 2023. To appear at Thirty-seventh Conference on Neural
+Information Processing Systems (NeurIPS). [read](https://arxiv.org/abs/2309.17133)
+* Kangyu Ji, Weizhe Lin, Yuqi Sun, Linsong Cui, Javad Shamsi, Yu-Hsien Chiang, Jiawei Chen, Elizabeth Tennyson, Linjie
+Dai, Qingbiao Li, Kyle Frohna, Miguel Anaya, Neil Greenham. Sam Stranks. Self-supervised deep learning for tracking
+degradation of perovskite LEDs with multispectral imaging. Accepted to Nature Machine Intelligence.
+* Weizhe Lin, Rexhina Blloshmi, Bill Byrne, Adria de Gispert and Gonzalo Iglesias. An Inner Table Retriever for Robust Table Question Answering. 2023. Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL). [read](https://www.amazon.science/publications/an-inner-table-retriever-for-robust-table-question-answering)
+* Weizhe Lin, Rexhina Blloshmi, Bill Byrne, Adria de Gispert and Gonzalo Iglesias. LI-RAGE: Late Interaction Retrieval Augmented Generation with Explicit Signals for Open-Domain Table Question Answering. 2023. Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL). [read](https://www.amazon.science/publications/li-rage-late-interaction-retrieval-augmented-generation-with-explicit-signals-for-open-domain-table-question-answering)
 * Weizhe Lin, Zhilin Wang, and Bill Byrne. FVQA 2.0: Introducing Adversarial Samples for Fact-based Visual Question Answering. 2023. Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Findings (EACL). [read](https://arxiv.org/abs/2303.10699)
 * Weizhe Lin, Bill Byrne. Retrieval Augmented Visual Question Answering with Outside Knowledge. 2022. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). [Read](https://arxiv.org/abs/2210.03809)
 * Weizhe Lin, Linjun Shou, Ming Gong, Jian Pei, Zhilin Wang, Bill Byrne, Daxin Jiang. Transformer-Empowered Content-Aware Collaborative Filtering. 2022. In Proceedings of the Fourth Knowledge-aware and Conversational Recommender Systems Workshop
