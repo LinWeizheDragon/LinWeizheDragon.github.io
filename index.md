@@ -34,6 +34,11 @@ This page is to list some of my projects and publications to help other research
 
 # Work Experience
 
+* **CTO at To0space, Beijing (2023-Now)**
+  * Lead the research group of To0space
+  * Develop cutting-edge AIGC solutions for architectural design
+  * [To0space Website](https://www.to0space.com/)
+
 * **Intern Applied Scientist II at Amazon Development Center, Cambridge (2022)**
   * Developing advanced Table Question Answering models
 
