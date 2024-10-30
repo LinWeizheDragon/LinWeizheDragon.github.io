@@ -33,7 +33,7 @@ This page is to list some of my projects and publications to help other research
 
 
 # Work Experience
-* **Group Lead at X-Intelligence Labs Research, United States (2024-Now)**
+* **Group Lead at X-Intelligence Labs Research (2024-Now)**
   * Developing machine learning algorithms in AI long-term contextual memory.
 
 * **CTO at To0space, Beijing (2023-Now)**
