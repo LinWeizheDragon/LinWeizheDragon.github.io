@@ -3,7 +3,7 @@ After graduating from high school, I studied at the University of Hong Kong for 
 During my undergraduate studies at the Department of Engineering, I was honored to receive the Trinity Overseas Bursary and the Cambridge Trust Scholarship.
 On June 31, 2021, I successfully obtained both my Bachelor of Arts and Master of Engineering degrees.
 On May 18, 2024, I received my Master of Arts degree from the University of Cambridge.
-Currently, I am pursuing a Ph.D. at the University of Cambridge, where my research focuses on the intersection of vision and language.
+On Nov 30, 2024, I received my Ph.D. degree at the University of Cambridge; My research focuses on the intersection of vision and language.
 In collaboration with Stranks Lab, University of Cambridge, I am also involved in vision technology that has the potential to advance material scientific research.
 
 **Keywrods of my research experiences:** Multi-modal Retrieval, Question Answering, Diffusion Models, Dialogue Systems, Recommender Systems, Graph Neural Networks, and Multi-robot Path Planning.
@@ -33,6 +33,8 @@ This page is to list some of my projects and publications to help other research
 
 
 # Work Experience
+* **Group Lead at X-Intelligence Labs Research, United States (2024-Now)**
+  * Developing machine learning algorithms in AI long-term contextual memory.
 
 * **CTO at To0space, Beijing (2023-Now)**
   * Lead the research group of To0space
@@ -60,7 +62,8 @@ This page is to list some of my projects and publications to help other research
 
 
 # Publications and Presentations
-
+* [**PhD Thesis**] **Weizhe Lin**. Augmenting Multi-modal Question Answering Systems with Retrieval Methods. Apollo - University of Cambridge Repository. [Read](https://doi.org/10.17863/CAM.112647)
+* [**Arxiv**] Jinghong Chen, Guangyu Yang, **Weizhe Lin**, Jingbiao Mei, Bill Byrne. On Extending Direct Preference Optimization to Accommodate Ties. on arXiv. [Read](https://arxiv.org/abs/2409.17431)
 * [**ACL2024**] **Weizhe Lin**, Jingbiao Mei, Jinghong Chen, Bill Byrne. PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers. 2024. To appear at Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL). [Read](https://arxiv.org/abs/2402.08327)
 * [**ACL2024**] Jingbiao Mei, Jinghong Chen, **Weizhe Lin**, Bill Byrne, Marcus Tomalin. Improving hateful memes detection via learning hatefulness-aware embedding space through retrieval-guided contrastive learning. To appear at Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL). [Read](https://arxiv.org/abs/2311.08110)
 * [**NAACL 2024**] Jinghong Chen, **Weizhe Lin**, Bill Byrne. CONTROL-DAG: Efficient Controlled Decoding for Directed Acyclic Non-Autoregressive Text Generation. 2024. Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. [Read](https://aclanthology.org/2024.naacl-short.42/)
@@ -84,7 +87,7 @@ co-located with 16th ACM Conference on Recommender Systems (RecSys 2022). [Read]
 * [**IEEE Robotics and Automation Letters**] Qingbiao Li*, **Weizhe Lin*** (*equal contribution), Zhe Liu and Amanda Prorok. Message-Aware Graph Attention Networks for Large Scale Multi-Robot Path Planning. 2020. IEEE Robotics and Automation Letters. [Read](http://arxiv.org/abs/2011.13219.pdf)
 * [**FG 2020 Oral**] **Weizhe Lin**, Indigo Orton, Mingyu  Liu, Marwa Mahmoud. Automatic Detection of Self-Adaptors for Psychological Distress. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a214/1kecI2z8ccU) <Oral session>
 * [**FG 2020 Oral**] Ziheng Zhang, **Weizhe Lin**, Mingyu Liu, Marwa Mahmoud. Multimodal Deep Learning Framework for Mental DisorderRecognition. 2020. In Proceedings of 2020 15th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2020). [Read](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a222/1kecI2YXH2M) <Oral session>
-* Xiaodong Wu*, **Weizhe Lin*** (*equal contribution), Zhilin Wang and Elena Rastorgueva. Author2Vec: A Novel Framework for Generating User Embedding. 2019. on Arxiv. 
+* Xiaodong Wu*, **Weizhe Lin*** (*equal contribution), Zhilin Wang and Elena Rastorgueva. Author2Vec: A Novel Framework for Generating User Embedding. 2019. on arXiv. 
 * [**EMNLP 2019 Workshop W-NUT**] Zhilin Wang, Elena Rastorgueva, **Weizhe Lin** and Xiaodong Wu. No you’re not alone A better way to find people with similar experiences on Reddit. 2019. In Proceedings of the 2019 EMNLP Workshop W-NUT: The 5th Workshop on Noisy User-generated Text. [Read](https://www.aclweb.org/anthology/D19-5540/)
 * Zhilin Wang, Xiaodong Wu, **Weizhe Lin** and Elena Rastorgueva. Detecting personal attributes through analyzing online forums. 2019. In Cambridge Language Sciences Early Careers Researchers Symposium. [Read](https://github.com/Zhilin123/Publications/blob/master/Cambridge%20Language%20Sciences%20ECR.pdf)
 
