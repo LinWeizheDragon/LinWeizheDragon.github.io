@@ -3,7 +3,7 @@ After graduating from high school, I studied at the University of Hong Kong for 
 During my undergraduate studies at the Department of Engineering, I was honored to receive the Trinity Overseas Bursary and the Cambridge Trust Scholarship.
 On June 31, 2021, I successfully obtained both my Bachelor of Arts and Master of Engineering degrees.
 On May 18, 2024, I received my Master of Arts degree from the University of Cambridge.
-On Nov 30, 2024, I received my Ph.D. degree at the University of Cambridge; My research focuses on the intersection of vision and language.
+On Nov 30, 2024, I received my Ph.D. degree at the University of Cambridge. My Ph.D. research focuses on the intersection of vision and language.
 In collaboration with Stranks Lab, University of Cambridge, I am also involved in vision technology that has the potential to advance material scientific research.
 
 **Keywrods of my research experiences:** Multi-modal Retrieval, Question Answering, Diffusion Models, Dialogue Systems, Recommender Systems, Graph Neural Networks, and Multi-robot Path Planning.
