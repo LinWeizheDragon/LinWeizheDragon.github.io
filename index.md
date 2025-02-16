@@ -94,6 +94,7 @@ co-located with 16th ACM Conference on Recommender Systems (RecSys 2022). [Read]
 
 # Review For Venues
 * Major NLP venues (EMNLP, ACL, EACL, NAACL, COLING, etc.)
+* Transactions on Pattern Analysis and Machine Intelligence
 * The First Workshop on Interactive Technologies for AI in Healthcare: Diagnosis, Management, and Assistance
 * The First Workshop on Multimodal Data for Mental Disorder Recognition
 
