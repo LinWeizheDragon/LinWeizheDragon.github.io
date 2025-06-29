@@ -5,8 +5,9 @@ On June 31, 2021, I successfully obtained both my Bachelor of Arts and Master of
 On May 18, 2024, I received my Master of Arts degree from the University of Cambridge.
 On Nov 30, 2024, I received my Ph.D. degree at the University of Cambridge. My Ph.D. research focuses on the intersection of vision and language.
 In collaboration with Stranks Lab, University of Cambridge, I am also involved in vision technology that has the potential to advance material scientific research.
+On Dec 30, 2024, I joined Huawei Advanced Computing and Storage Lab, working on developing cutting-edge technologies to improve the inference efficiency of AI models. Anyone interested in my team is welcome to send your resume to me.
 
-**Keywrods of my research experiences:** Multi-modal Retrieval, Question Answering, Diffusion Models, Dialogue Systems, Recommender Systems, Graph Neural Networks, and Multi-robot Path Planning.
+**Keywrods of my research experiences:** Inference System Optimization/Acceleration, Multi-modal Retrieval, Question Answering, Diffusion Models, Dialogue Systems, Recommender Systems, Graph Neural Networks, and Multi-robot Path Planning.
 
 This page is to list some of my projects and publications to help other researchers to know me better.
 
@@ -33,10 +34,14 @@ This page is to list some of my projects and publications to help other research
 
 
 # Work Experience
-* **Group Lead at X-Intelligence Labs Research (2024-Now)**
+* **Research Scientist at Huawei Advanced Computing and Storage Lab (2024-2025)**
+  * Optimizing AI inference system
+  * Developing inference acceleration algorithms for LLMs 
+  
+* **Group Lead at X-Intelligence Labs Research (2024)**
   * Developing machine learning algorithms in AI long-term contextual memory.
 
-* **CTO at To0space, Beijing (2023-Now)**
+* **CTO at To0space, Beijing (2023-2024)**
   * Lead the research group of To0space
   * Develop cutting-edge AIGC solutions for architectural design
   * [To0space Website](https://www.to0space.com/)
@@ -62,6 +67,12 @@ This page is to list some of my projects and publications to help other research
 
 
 # Publications and Presentations
+* [**Technical Report**] Huawei Pangu Team. Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity. [Read](https://arxiv.org/abs/2505.21411)
+* [**Arxiv**] **Weizhe Lin**, Xing Li, Zhiyuan Yang, Xiaojin Fu, Hui-Ling Zhen, Yaoyuan Wang, Xianzhi Yu, Wulong Liu, Xiaosong Li, Mingxuan Yuan. TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling. [Read](https://arxiv.org/abs/2505.17155)
+* [**ICCV2025**] Xinyi Zheng, Steve Zhang, **Weizhe Lin** (**Corresponding author**), Aaron Zhang, Walterio W Mayol-Cuevas, Junxiao Shen. CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications. [Read](https://arxiv.org/abs/2501.06927)
+* [**Arxiv**] Jingbiao Mei, Jinghong Chen, Guangyu Yang, **Weizhe Lin**, Bill Byrne. Robust Adaptation of Large Multimodal Models for Retrieval Augmented Hateful Meme Detection. [Read](https://arxiv.org/abs/2502.13061)
+* [**Arxiv**] Wenqi Zhou, Kai Cao, Hao Zheng, Xinyi Zheng, Miao Liu, Per Ola Kristensson, Walterio Mayol-Cuevas, Fan Zhang, **Weizhe Lin** (**Corresponding author**), Junxiao Shen. X-LeBench: A Benchmark for Extremely Long Egocentric Video Understanding. [Read](https://arxiv.org/abs/2501.06835)
+* [**Arxiv**] Zihong He, **Weizhe Lin** (**Corresponding author**), Hao Zheng, Fan Zhang, Matt Jones, Laurence Aitchison, Xuhai Xu, Miao Liu, Per Ola Kristensson, Junxiao Shen. Human-inspired Perspectives: A Survey on AI Long-term Memory. [Read](https://arxiv.org/abs/2411.00489)
 * [**PhD Thesis**] **Weizhe Lin**. Augmenting Multi-modal Question Answering Systems with Retrieval Methods. Apollo - University of Cambridge Repository. [Read](https://doi.org/10.17863/CAM.112647)
 * [**Arxiv**] Jinghong Chen, Guangyu Yang, **Weizhe Lin**, Jingbiao Mei, Bill Byrne. On Extending Direct Preference Optimization to Accommodate Ties. on arXiv. [Read](https://arxiv.org/abs/2409.17431)
 * [**ACL2024**] **Weizhe Lin**, Jingbiao Mei, Jinghong Chen, Bill Byrne. PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers. 2024. To appear at Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL). [Read](https://arxiv.org/abs/2402.08327)
