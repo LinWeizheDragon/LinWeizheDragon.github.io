@@ -34,7 +34,12 @@ This page is to list some of my projects and publications to help other research
 
 
 # Work Experience
-* **Research Scientist at Huawei Advanced Computing and Storage Lab (2024-2025)**
+* **Research Scientist at Huawei Noah's Research Institute (2026-)**
+  * Agentic RL for long horizon tasks
+  * Data preparation and curation for search/cowork agents
+  * Agentic inference acceleration and optimization (context compression, agent routing, agentic KV cache management, speculative decoding)
+    
+* **Research Scientist at Huawei Advanced Computing and Storage Lab (2024-2026)**
   * Optimizing AI inference system
   * Developing inference acceleration algorithms for LLMs 
   
