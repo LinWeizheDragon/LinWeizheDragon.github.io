@@ -5,7 +5,11 @@ On June 31, 2021, I successfully obtained both my Bachelor of Arts and Master of
 On May 18, 2024, I received my Master of Arts degree from the University of Cambridge.
 On Nov 30, 2024, I received my Ph.D. degree at the University of Cambridge. My Ph.D. research focuses on the intersection of vision and language.
 In collaboration with Stranks Lab, University of Cambridge, I am also involved in vision technology that has the potential to advance material scientific research.
-On Dec 30, 2024, I joined Huawei Advanced Computing and Storage Lab, working on developing cutting-edge technologies to improve the inference efficiency of AI models. Anyone interested in my team is welcome to send your resume to me.
+On Dec 30, 2024, I joined Huawei Advanced Computing and Storage Lab, working on developing cutting-edge technologies to improve the inference efficiency of AI models. 
+On Sep, 2026, I moved to Noah's Noah's Research Institute, working on Agentic RL and agentic inference acceleration.
+
+Recruiting: anyone interested in my team is welcome to send your resume to me.
+
 
 **Keywrods of my research experiences:** Inference System Optimization/Acceleration, Multi-modal Retrieval, Question Answering, Diffusion Models, Dialogue Systems, Recommender Systems, Graph Neural Networks, and Multi-robot Path Planning.
 
